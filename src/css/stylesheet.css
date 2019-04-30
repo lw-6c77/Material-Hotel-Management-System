@@ -1,5 +1,9 @@
 .root{
-    -fx-background-color: #2382ff;
+    -fx-background-color: #fff1f8;
     -fx-text-fill: #fff;
 }
 
+
+.tab {
+    -fx-background-color: #ff2638;
+}
